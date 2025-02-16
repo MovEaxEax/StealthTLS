@@ -16,10 +16,16 @@ Happy spoofing!
 
 -----------------------------------------------
 
-Tip me a coffee in crypto if you like what you see:
+Tip me a crypto coffee if you like what you see:
 
-BTC: 1FoTxYS2RFKT2a2qWf7UPV1LUdiTuSjTur
+BTC:
 
-LTC: LTc156KNuD4a9MNH4ZSDgjy6P4uKVsqLqg
+1FoTxYS2RFKT2a2qWf7UPV1LUdiTuSjTur
 
-DOGE: DDpYs5xHnT63LvQrdewXNUt8K6VAr1iVbj
+LTC:
+
+LTc156KNuD4a9MNH4ZSDgjy6P4uKVsqLqg
+
+DOGE:
+
+DDpYs5xHnT63LvQrdewXNUt8K6VAr1iVbj

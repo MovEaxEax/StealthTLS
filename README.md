@@ -13,16 +13,13 @@ https://github.com/nlohmann/json
 
 Happy spoofing!
 
-asdasd
-asdas
 
-sada
-asd
-asd
-
-sadas
+-----------------------------------------------
 
 Tip me a coffee in crypto if you like what you see:
+
 BTC: 1FoTxYS2RFKT2a2qWf7UPV1LUdiTuSjTur
+
 LTC: LTc156KNuD4a9MNH4ZSDgjy6P4uKVsqLqg
+
 DOGE: DDpYs5xHnT63LvQrdewXNUt8K6VAr1iVbj

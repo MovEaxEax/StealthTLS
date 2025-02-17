@@ -6,7 +6,7 @@ The order of the data matters. So, the headers are in the order, as they would o
 
 Some of the headers contain values, for example the encoding or the user agent. The other values are empty and/or can be ignored.
 
-All signatures are ripped from automate.browserstack.com browsers, they offer a lot of different combinations from real devices running browsers on differnt OS.
+All signatures are ripped from automate.browserstack.com browsers, they offer a lot of different combinations from real devices running browsers on a varies OS.
 
 The C++ code requires the nlohman json library to load the data:
 https://github.com/nlohmann/json 

@@ -1,6 +1,7 @@
 # Browser Profiles
 This repository contains a JSON file with JA3 and HTTP2 signatures of different browsers to spoof TLS connections.
 It also includes some C++ code to load the JSON and save the profiles with structs.
+A minimal http client is available to establish connections as a proof of concept.
 
 The order of the data matters. So, the headers are in the order, as they would occur in a HTTP2 requests, from top to down, first to last. Same for JA3 ciphers and stuff, index 0 is sent first, last element is sent last.
 
@@ -10,6 +11,10 @@ All signatures are ripped from automate.browserstack.com browsers, they offer a 
 
 The C++ code requires the nlohman json library to load the data:
 https://github.com/nlohmann/json 
+
+The HTTP-Client needs OpenSSL and NGHTTP2 to run:
+https://github.com/openssl/openssl
+https://github.com/nghttp2/nghttp2
 
 Happy spoofing!
 
